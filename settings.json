@@ -1,0 +1,14 @@
+{
+    "settings": {
+        "worldSize": "100x100",
+        "landColor": "#228B22",
+        "waterColor": "#1E90FF"
+    },
+    "features": {
+        "enhancements": [
+            "Dynamic weather",
+            "Creature simulation",
+            "Resource management"
+        ]
+    }
+}
